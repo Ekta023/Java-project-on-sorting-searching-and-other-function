@@ -1,7 +1,3 @@
-Here's a README file for your project:
-
----
-
 # CS401 Software Project - Employee Data Management
 
 ## Overview
